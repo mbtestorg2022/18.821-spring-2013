@@ -70,9 +70,45 @@ Finally, to ensure effective communication, we encourage students to think caref
 
 Not everything needs to be communicated. A useful model for considering when and how to address a conflict was given by Blake and Mouton in 1970 (“The Fifth Achievement,” _Journal of Applied Behavioral Science_, 6, 413–426). Essentially, the choice of strategy can depend both on the importance of the outcome and on the importance of the relationship, as illustrated by the following table. The main point is that not every conflict must be addressed.
 
-| &nbsp; | The relationship **is** important to me. | The relationship **is not** important to me. |
-| The outcome of the conflict **is** important to me. | Directly address the issue and collaborate to find a solution. | Exert power to try to achieve the desired outcome. |
-| The outcome of the conflict **is not** important to me. | Try to smooth things over. | Withdraw from the conflict. 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+The relationship **is** important to me.
+{{< tdclose >}}
+{{< tdopen >}}
+The relationship **is not** important to me.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The outcome of the conflict **is** important to me.
+{{< tdclose >}}
+{{< tdopen >}}
+Directly address the issue and collaborate to find a solution.
+{{< tdclose >}}
+{{< tdopen >}}
+Exert power to try to achieve the desired outcome.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The outcome of the conflict **is not** important to me.
+{{< tdclose >}}
+{{< tdopen >}}
+Try to smooth things over.
+{{< tdclose >}}
+{{< tdopen >}}
+Withdraw from the conflict.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Conflict Resolution
 

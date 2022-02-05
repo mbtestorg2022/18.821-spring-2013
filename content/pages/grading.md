@@ -8,23 +8,113 @@ _In this section, Prof. Haynes Miller and Susan Ruff describe their approach to 
 
 In Spring 2013, the three project papers and the presentation were weighted equally in students' final grades.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Project 1 paper | 25% |
-| Project 2 paper | 25% |
-| Project 3 paper | 25% |
-| Presentation | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 1 paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 2 paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 3 paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 As part of the presentation grade, students were expected to attend all of their classmates' presentations and submit peer comments.
 
 The grades for papers were broken down as follows:
 
-| CRITERIA | PERCENTAGES |
-| --- | --- |
-| Mathematical vision (This intentionally vague category captures how well students tackled the mathematics in the context of their background and abilities. While subject to some vagaries, this criterion is important to avoid preconceptions about the “right” approach to a project.) | 50% |
-| Writing | 30% |
-| Process (This reflects how students progressed and whether they met milestones.) | 10% |
-| First draft (This primarily serves to reflect how complete the first draft was.) | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CRITERIA
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mathematical vision (This intentionally vague category captures how well students tackled the mathematics in the context of their background and abilities. While subject to some vagaries, this criterion is important to avoid preconceptions about the “right” approach to a project.)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Process (This reflects how students progressed and whether they met milestones.)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First draft (This primarily serves to reflect how complete the first draft was.)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each team was given a team grade for each project. Students were also asked to declare which part of the writing they did, and each received separate grades on that as well. It did sometimes happen that members from the same team received different grades.
 

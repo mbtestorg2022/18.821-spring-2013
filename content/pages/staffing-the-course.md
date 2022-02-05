@@ -40,14 +40,151 @@ Some constancy of staffing can also be beneficial, particularly in writing instr
 Responsibilities of the Course Staff
 ------------------------------------
 
-| &nbsp; | LEAD INSTRUCTOR  {{< br >}}(S13: PROF. HAYNES MILLER) | Co-Instructors  {{< br >}}(S13: Saul Glasman and  {{< br >}}Dr. Nat Stapleton) | COMMUNICATION INSTRUCTOR  {{< br >}}(S13: Susan Ruff) |
-| --- | --- | --- | --- |
-| Preparing for the course | Refine project topic list and add new project topics; create the course calendar; survey students for team formation; and create grading rubrics. | — | Help the lead instructor understand the structure and resources associated with the course; and assist with preparing for the semester. |
-| Preparing and running class sessions | Prepare and run the course introduction session and the writing workshop; and facilitate the various workshops. | Help deliver the presentation workshop. | Prepare and run the teamwork workshop; and work with co-instructors on the presentation workshop examples and lead the following discussion. |
-| Mentoring student groups || {{< td-colspan 2 >}}Mentor a different set of 3 teams during each of the 3 project cycles; and help students engage in mathematical research and overcome frustrations and obstacles.{{< /td-colspan >}} || Available to meet with students about communication. |
-| Reviewing first drafts of papers || {{< td-colspan 2 >}}Give feedback on first drafts for their 3 teams. Lead instructor may comment on all papers.{{< /td-colspan >}} || Give feedback on select first drafts. |
-| Participating in debriefing meetings | Participate in all debriefings (9 per project cycle = 27 total). | Participate in debriefing meetings for their current 3 teams, and sometimes for the next 3 teams they are about to start mentoring. | Participate in some debriefings, especially for weaker teams. |
-| Grading final drafts || {{< td-colspan 2 >}}Grade the papers for their 3 teams. Lead instructor may do more.{{< /td-colspan >}} || Grade select papers. |
-| Participating in practice presentations | Attend all practice presentations and give feedback. | Attend practice presentations for their teams and give feedback. | Attend all practice presentations and give feedback. |
-| Attending and giving feedback on presentations | Attend all presentations; and compile instructor feedback and assign grades. || {{< td-colspan 2 >}}Attend all presentations and send feedback to lead instructor.{{< /td-colspan >}} ||
-| Total Time | 6–12 hours/week. The time investment from the lead instructor varies from term to term, depending on factors such as whether the lead instructor attends all of the debriefings and practice presentations. | 5 hours/week for most weeks; 10–15 hours/week for debriefing weeks. | 4 hours/week for most weeks; 25 hours/week for debriefing weeks; 7 hours/week during revisions.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+LEAD INSTRUCTOR  
+(S13: PROF. HAYNES MILLER)
+{{< thclose >}}
+{{< thopen >}}
+Co-Instructors  
+(S13: Saul Glasman and  
+Dr. Nat Stapleton)
+{{< thclose >}}
+{{< thopen >}}
+COMMUNICATION INSTRUCTOR  
+(S13: Susan Ruff)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Preparing for the course
+{{< tdclose >}}
+{{< tdopen >}}
+Refine project topic list and add new project topics; create the course calendar; survey students for team formation; and create grading rubrics.
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Help the lead instructor understand the structure and resources associated with the course; and assist with preparing for the semester.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Preparing and running class sessions
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare and run the course introduction session and the writing workshop; and facilitate the various workshops.
+{{< tdclose >}}
+{{< tdopen >}}
+Help deliver the presentation workshop.
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare and run the teamwork workshop; and work with co-instructors on the presentation workshop examples and lead the following discussion.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mentoring student groups
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Mentor a different set of 3 teams during each of the 3 project cycles; and help students engage in mathematical research and overcome frustrations and obstacles.
+{{< tdclose >}}
+{{< tdopen >}}
+Available to meet with students about communication.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reviewing first drafts of papers
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Give feedback on first drafts for their 3 teams. Lead instructor may comment on all papers.
+{{< tdclose >}}
+{{< tdopen >}}
+Give feedback on select first drafts.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participating in debriefing meetings
+{{< tdclose >}}
+{{< tdopen >}}
+Participate in all debriefings (9 per project cycle = 27 total).
+{{< tdclose >}}
+{{< tdopen >}}
+Participate in debriefing meetings for their current 3 teams, and sometimes for the next 3 teams they are about to start mentoring.
+{{< tdclose >}}
+{{< tdopen >}}
+Participate in some debriefings, especially for weaker teams.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grading final drafts
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Grade the papers for their 3 teams. Lead instructor may do more.
+{{< tdclose >}}
+{{< tdopen >}}
+Grade select papers.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participating in practice presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Attend all practice presentations and give feedback.
+{{< tdclose >}}
+{{< tdopen >}}
+Attend practice presentations for their teams and give feedback.
+{{< tdclose >}}
+{{< tdopen >}}
+Attend all practice presentations and give feedback.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attending and giving feedback on presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Attend all presentations; and compile instructor feedback and assign grades.
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Attend all presentations and send feedback to lead instructor.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total Time
+{{< tdclose >}}
+{{< tdopen >}}
+6–12 hours/week. The time investment from the lead instructor varies from term to term, depending on factors such as whether the lead instructor attends all of the debriefings and practice presentations.
+{{< tdclose >}}
+{{< tdopen >}}
+5 hours/week for most weeks; 10–15 hours/week for debriefing weeks.
+{{< tdclose >}}
+{{< tdopen >}}
+4 hours/week for most weeks; 25 hours/week for debriefing weeks; 7 hours/week during revisions.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

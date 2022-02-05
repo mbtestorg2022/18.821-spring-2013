@@ -8,40 +8,603 @@ _In this section, Prof. Haynes Miller and Susan Ruff share the course calendar f
 
 The following calendar reflects the schedule for Spring 2013. Not included are the hour-long mentor meetings that occurred once a week for each of the student teams.
 
-| WEEK # | TYPE | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Other** |  — |  — |  — | — | No class at MIT  {{< br >}}(emergency cancellation) |
-| 2 | **Project 1** | Project 1 topic selection || {{< td-colspan 4 >}}Project 1 development{{< /td-colspan >}} ||||
-| **Other** | Course introduction | — | — |  — | Teamwork workshop |
-| 3 | **Project 1** || {{< td-colspan 5 >}}Project 1 development{{< /td-colspan >}} |||||
-| **Other** | Presentation workshop | — | — | — | Writing workshop |
-| 4 | **Project 1** || {{< td-colspan 4 >}}Project 1 development{{< /td-colspan >}} |||| Project 1 first draft due |
-| **Project 2** | — | — | — | — | Project 2 topic selection |
-| 5 | **Project 1** || {{< td-colspan 3 >}}Project 1 debriefings (1 hour per team){{< /td-colspan >}} |||| {{< td-colspan 2 >}}Project 1 development{{< /td-colspan >}} ||
-| **Project 2** || {{< td-colspan 5 >}}Project 2 development{{< /td-colspan >}} |||||
-| **Other** | — | — | — | — | Team 1 practice  {{< br >}}presentation |
-| 6 | **Project 1** || {{< td-colspan 2 >}}Project 1 development{{< /td-colspan >}} || Project 1 final draft due | — | — |
-| **Project 2** || {{< td-colspan 5 >}}Project 2 development{{< /td-colspan >}} |||||
-| **Other** | Team 1 in-class  {{< br >}}presentation | — | — | — | Team 2 practice  {{< br >}}presentation |
-| 7 | **Project 2** || {{< td-colspan 5 >}}Project 2 development{{< /td-colspan >}} |||||
-| **Other** | Team 2 in-class  {{< br >}}presentation | — | Team 3 practice presentation | — |  — |
-| 8 | **Other** || {{< td-colspan 5 >}}No class at MIT (spring break){{< /td-colspan >}} |||||
-| 9 | **Project 2** || {{< td-colspan 5 >}}Project 2 development{{< /td-colspan >}} |||||
-| **Other** | Team 3 in-class  {{< br >}}presentation | — | — | — | — |
-| 10 | **Project 2** | Project 2 first draft due || {{< td-colspan 2 >}}Project 2 development{{< /td-colspan >}} ||| {{< td-colspan 2 >}}Project 2 debriefings  {{< br >}}(1 hour per team){{< /td-colspan >}} ||
-| **Project 3** | Project 3 topic selection || {{< td-colspan 4 >}}Project 3 development{{< /td-colspan >}} ||||
-| **Other** | Team 4 practice  {{< br >}}presentation | — | — | — | Team 4 in-class  {{< br >}}presentation |
-| 11 | **Project 2** || {{< td-colspan 2 >}}Project 2 development{{< /td-colspan >}} || Project 2 final draft due | — | — |
-| **Project 3** || {{< td-colspan 5 >}}Project 3 development{{< /td-colspan >}} |||||
-| **Other** | No class at MIT | — | — | — | No class at MIT  {{< br >}}(emergency cancellation) |
-| 12 | **Project 3** || {{< td-colspan 5 >}}Project 3 development{{< /td-colspan >}} |||||
-| **Other** | — | Team 5 practice presentation | — | — | Team 6 practice presentation; Team 5 in-class presentation |
-| 13 | **Project 3** || {{< td-colspan 5 >}}Project 3 development{{< /td-colspan >}} |||||
-| **Other** | Team 6 in-class  {{< br >}}presentation | Team 7 practice presentation | Team 8 practice presentation | — | Team 7 in-class  {{< br >}}presentation |
-| 14 | **Project 3** | Project 3 first draft due | Project 3 development || {{< td-colspan 3 >}}Project 3 debriefings (1 hour per team){{< /td-colspan >}} |||
-| **Other** | Team 8 in-class  {{< br >}}presentation | — |  — | — | Team 9 practice  {{< br >}}presentation |
-| 15 | **Project 3** || {{< td-colspan 2 >}}Project 3 development{{< /td-colspan >}} || Project 3 final draft due | — | — |
-| **Other** | Team 9 in-class  {{< br >}}presentation | — | — | — | — 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TYPE
+{{< thclose >}}
+{{< thopen >}}
+MONDAY
+{{< thclose >}}
+{{< thopen >}}
+TUESDAY
+{{< thclose >}}
+{{< thopen >}}
+WEDNESDAY
+{{< thclose >}}
+{{< thopen >}}
+THURSDAY
+{{< thclose >}}
+{{< thopen >}}
+FRIDAY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+No class at MIT  
+(emergency cancellation)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 1**
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 topic selection
+{{< tdclose >}}
+{{< tdopen colspan="4" >}}
+Project 1 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+Teamwork workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 1**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 1 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation workshop
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Writing workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 1**
+{{< tdclose >}}
+{{< tdopen colspan="4" >}}
+Project 1 development
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 first draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Project 2**
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 topic selection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 1**
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Project 1 debriefings (1 hour per team)
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Project 1 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Project 2**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 2 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 1 practice  
+presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 1**
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Project 1 development
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 final draft due
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Project 2**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 2 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Team 1 in-class  
+presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 2 practice  
+presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 2**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 2 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Team 2 in-class  
+presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 3 practice presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+No class at MIT (spring break)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 2**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 2 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Team 3 in-class  
+presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 2**
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 first draft due
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Project 2 development
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Project 2 debriefings  
+(1 hour per team)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Project 3**
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3 topic selection
+{{< tdclose >}}
+{{< tdopen colspan="4" >}}
+Project 3 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Team 4 practice  
+presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 4 in-class  
+presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 2**
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Project 2 development
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 final draft due
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Project 3**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 3 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+No class at MIT
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+No class at MIT  
+(emergency cancellation)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 3**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 3 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 5 practice presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 6 practice presentation; Team 5 in-class presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 3**
+{{< tdclose >}}
+{{< tdopen colspan="5" >}}
+Project 3 development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Team 6 in-class  
+presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Team 7 practice presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Team 8 practice presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 7 in-class  
+presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 3**
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3 first draft due
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3 development
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Project 3 debriefings (1 hour per team)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Team 8 in-class  
+presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+ —
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+Team 9 practice  
+presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 3**
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Project 3 development
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3 final draft due
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Other**
+{{< tdclose >}}
+{{< tdopen >}}
+Team 9 in-class  
+presentation
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Scheduling Choices and Disruptions
 ----------------------------------
