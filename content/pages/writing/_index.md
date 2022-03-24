@@ -59,11 +59,11 @@ The following resources are provided to help students learn and use LaTeX.
 
 LaTeX-Project. "[Obtaining LaTeX](http://www.latex-project.org/ftp.html)." August 28, 2009.
 
-Downes, Michael. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Short Math Guide for LaTeX." (PDF)](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf) _American Mathematical Society_. Version 1.09. March 22, 2002.
+Downes, Michael. ["Short Math Guide for LaTeX." (PDF)](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf) _American Mathematical Society_. Version 1.09. March 22, 2002.
 
-Oetiker, Tobias, Hubert Partl, et al. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Not So Short Introduction to LaTeX 2ε." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 5.01. April 06, 2011.
+Oetiker, Tobias, Hubert Partl, et al. ["The Not So Short Introduction to LaTeX 2ε." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 5.01. April 06, 2011.
 
-Reckdahl, Keith. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Using Imported Graphics in LaTeX and pdfLaTeX." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 3.0.1. January 12, 2006.
+Reckdahl, Keith. ["Using Imported Graphics in LaTeX and pdfLaTeX." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 3.0.1. January 12, 2006.
 
 Writing Workshop
 ----------------

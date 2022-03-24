@@ -18,8 +18,8 @@ This project developed from the project description for [Number Squares (PDF)]({
 The student work is courtesy of Yida Gao, Matt Redmond, and Zach Steward. Used with permission.
 
 *   [First Draft of Sample Paper 1 (PDF)]({{< baseurl >}}/resources/mit18_821s13_paper1-first)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[First Draft of Sample Paper 1 with Comments from Susan Ruff (PDF - 2.5MB)]({{< baseurl >}}/resources/mit18_821s13_paper1-susan)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[First Draft of Sample Paper 1 with Comments from Prof. Haynes Miller (PDF - 3.6MB)]({{< baseurl >}}/resources/mit18_821s13_paper1-haynes)
+*   [First Draft of Sample Paper 1 with Comments from Susan Ruff (PDF - 2.5MB)]({{< baseurl >}}/resources/mit18_821s13_paper1-susan)
+*   [First Draft of Sample Paper 1 with Comments from Prof. Haynes Miller (PDF - 3.6MB)]({{< baseurl >}}/resources/mit18_821s13_paper1-haynes)
 *   [Additional Comments on Sample Paper 1 from Prof. Haynes Miller (PDF)]({{< baseurl >}}/resources/mit18_821s13_pr1-addlcom)
 *   [Final Version of Sample Paper 1 (PDF)]({{< baseurl >}}/resources/mit18_821s13_paper1-final)
 
@@ -37,8 +37,8 @@ This project developed from the project description for [Tossing a Coin (PDF)]({
 The student work is courtesy of Jean Manuel Nater, Peter Wear, and Michael Cohen. Used with permission.
 
 *   [First Draft of Sample Paper 2 (PDF)]({{< baseurl >}}/resources/mit18_821s13_paper2-first)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[First Draft of Sample Paper 2 with Comments from Susan Ruff (PDF - 1.7MB)]({{< baseurl >}}/resources/mit18_821s13_paper2-susan)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[First Draft of Sample Paper 2 with Comments from Prof. Haynes Miller (PDF - 2.7MB)]({{< baseurl >}}/resources/mit18_821s13_paper2-haynes)
+*   [First Draft of Sample Paper 2 with Comments from Susan Ruff (PDF - 1.7MB)]({{< baseurl >}}/resources/mit18_821s13_paper2-susan)
+*   [First Draft of Sample Paper 2 with Comments from Prof. Haynes Miller (PDF - 2.7MB)]({{< baseurl >}}/resources/mit18_821s13_paper2-haynes)
 *   [Additional Comments on Sample Paper 2 from Prof. Haynes Miller (PDF)]({{< baseurl >}}/resources/mit18_821s13_pr2-addlcom)
 *   [Final Version of Sample Paper 2 (PDF)]({{< baseurl >}}/resources/mit18_821s13_paper2-final)
 
