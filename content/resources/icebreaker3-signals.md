@@ -9,6 +9,7 @@ image_metadata:
     and using sounds as indications.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Two blindfolded students trying to communicate through hand signals.
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: icebreaker3-signals.jpg
 uid: a962ad8c-90af-e197-cafb-60e3326efcf5

@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Students standing in a row while receiving number assignments from the
     professor.
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: icebreaker2-numbers.jpg
 uid: fe5ac6f5-4508-e2f0-3cd8-b65f9731070b

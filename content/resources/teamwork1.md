@@ -9,6 +9,7 @@ image_metadata:
     research topic.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Four people working over papers laid out on a desk.
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: teamwork1.jpg
 uid: c4c2f623-11ab-80db-ed8d-198c9f40966b

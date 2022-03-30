@@ -12,6 +12,7 @@ image_metadata:
     a set of people who were already sorted into the correct order.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: A row of blindfolded students with two of them standing face-to-face.
+parent_uid: 1790141c-cb89-cb9c-3927-269166af5cac
 resourcetype: Image
 title: icebreaker4-sort.jpg
 uid: 5bb2b932-9275-4baa-2126-0c2fbc1503e1
